@@ -2,7 +2,7 @@
 
  [![Intro](https://img.shields.io/badge/Cursus-Piscine__Reloaded-success?style=for-the-badge&logo=42)](https://github.com/maluojuara/42SP_Piscine_Reloaded)
  
- [![Stars](https://img.shields.io/github/stars/maluojuara/42SP_Piscine_Reloaded?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/maluojuara/42SP_Piscine_Reloaded)
+ [![Stars](https://img.shields.io/github/stars/maluojuara/42SP_Piscine_Reloaded?color=ffff00&label=Stars&logo=github&style=flat)](https://github.com/maluojuara/42SP_Piscine_Reloaded)
  [![Size](https://img.shields.io/github/repo-size/maluojuara/42SP_Piscine_Reloaded?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/maluojuara/42SP_Piscine_Reloaded)
  [![Activity](https://img.shields.io/github/last-commit/maluojuara/42SP_Piscine_Reloaded?color=red&label=Last%20Commit&style=flat)](https://github.com/maluojuara/42SP_Piscine_Reloaded)
 
